@@ -1,4 +1,4 @@
-![Sushiman UI Banner](./assets/BannerofSushi.png)
+![Sushiman UI Banner](./preview/homePage.png)
  
 # Sushiman UI
  
